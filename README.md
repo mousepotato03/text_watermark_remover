@@ -6,6 +6,8 @@ NNBSP(Narrow No-Break Space)는 ChatGPT o3/o4 모델에서 생성된 텍스트 �
 
 # 설치 방법
 
+![image](https://github.com/user-attachments/assets/06929a5b-d6ea-4bd0-9d54-cebf931693ec)
+
 프로젝트를 다운받고, [크롬 익스텐션](chrome://extensions/)에서 개발자 설정 후, 업로드
 
 # 사용 방법
