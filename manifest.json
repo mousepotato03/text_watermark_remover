@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "NNBSP Remover",
+  "version": "1.0",
+  "description": "선택한 텍스트의 비좁은 분리 공간 문자를 제거합니다.",
+  "permissions": ["contextMenus", "clipboardWrite", "scripting", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content_script.js"]
+    }
+  ],
+  "icons": {
+    "16": "assets/favicon.png",
+    "48": "assets/favicon.png",
+    "128": "assets/favicon.png"
+  }
+}
