@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5296c6fe-72e4-4baa-a07c-888eccc8546d)# NNBSP Remover
+# NNBSP Remover
 NNBSP(Narrow No-Break Space)는 ChatGPT o3/o4 모델에서 생성된 텍스트 답변에 포함된 특수 문자이다.
 그러나 IDE나 다른 텍스트 편집기에서 텍스트를 사용할 때 거슬리므로, 이를 쉽게 삭제할 수 있는 크롬 익스텐션을 만들었다.
 
